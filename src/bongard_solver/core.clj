@@ -15,6 +15,8 @@
 
 (comment
   
+
+
 #### Todo:
 - Ingest images
 - separate left from right
@@ -25,4 +27,10 @@
 
 Test:
 spit out .gif files that contain only the boxes from left, only boxes from right
+
+
+(let [image-path (clojure.java.io/resource "images/p001.bmp")]
+    (if image-path
+      (slurp image-path)
+      (println "Image file not found!")))
 )

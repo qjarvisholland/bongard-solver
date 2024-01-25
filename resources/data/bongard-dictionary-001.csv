@@ -1,0 +1,105 @@
+Bongard Problem #,Left-side Rule,Right-side Rule
+BP#1,Empty picture,Not empty picture
+BP#2,Large figures,Small figures
+BP#3,Outline figures,Solid figures
+BP#4,Convex figures,Nonconvex figures
+BP#5,Polygons,Curvilinear figures
+BP#6,Triangles,Quadrangles
+BP#7,Figures elongated vertically,Figures elongated horizontally
+BP#8,Figures on the right side,Figures on the left side
+BP#9,Smooth contour figures,Twisting contour figures
+BP#10,Triangles,Quadrangles
+BP#11,Elongated figures,Compact figures
+BP#12,Convex hull of figure elongated,Convex hull of figure compact
+BP#13,Vertical rectangles or horizontal ellipses,Vertical ellipses or horizontal rectangles
+BP#14,Large total line length,Small total line length
+BP#15,Closed lines,Open lines
+BP#16,Spiral curls counterclockwise,Spiral curls clockwise
+BP#17,An acute angle directed inward,No angle directed inward
+BP#18,A neck,No neck
+BP#19,Neck horizontal,Neck vertical
+BP#20,Points located on one side of the neck,Points located on both sides of the neck
+BP#21,Small figure present,No small figure present
+BP#22,Areas of figures approximately equal,Areas of figures differ greatly
+BP#23,One figure,Two figures
+BP#24,A circle,No circle
+BP#25,Black figure is a triangle,Black figure is a circle
+BP#26,Solid black triangle,No solid black triangle
+BP#27,More solid black figures,More outline figures
+BP#28,More solid black circles,More outline circles
+BP#29,There are more small circles inside the figure outline than outside,There are fewer small circles inside the figure outline than outside
+BP#30,A line with a self-crossing,A line without a self-crossing
+BP#31,One line,Two lines
+BP#32,A sharp projection,No sharp projection
+BP#33,Acute angle,No acute angle
+BP#34,A large hole,A small hole
+BP#35,The axis of the hole is parallel to the figure axis,The axis of the hole is perpendicular to the figure axis
+BP#36,Triangle above circle,Circle above triangle
+BP#37,Triangle above circle,Circle above triangle
+BP#38,Triangle larger than circle,Triangle smaller than circle
+BP#39,Segments almost parallel to each other,Large angles between segments
+BP#40,Three points on a straight line,No three points on a straight line
+BP#41,Outline circles on one straight line,Outline circles not on one straight line
+BP#42,Points inside the figure outline are on a straight line,Points inside the figure outline are not on a straight line
+BP#43,The vibration amplitude increases from left to right,The vibration amplitude decreases from left to right
+BP#44,Small circles on different arcs,Small circles on one arc
+BP#45,Outline figure on top of solid black figure,Black figure on top of outline figure
+BP#46,Triangle on top of the circle,Circle on top of the triangle
+BP#47,Triangle inside of the circle,Circle inside of the triangle
+BP#48,Solid dark figures above the outline figures,Outline figures above the solid dark figures
+BP#49,Points inside the figure outline are grouped more densely than outside the contour,Points outside the figure contour are grouped more densely than inside the contour
+BP#50,Axes of symmetry,No axes of symmetry
+BP#51,Two circles close to each other,No two circles close to each other
+BP#52,Arrows pointing in different directions,Arrows pointing in the same direction
+BP#53,Inside figure has fewer angles than outside figure,Inside figure has more angles than outside figure
+BP#54,"A cross, circle, and triangle arranged counterclockwise","A cross, circle, and triangle arranged clockwise"
+BP#55,A circle is at the left of the cavity if you look from inside the figure,A circle is at the right of the cavity if you look from inside the figure
+BP#56,All figures of the same color,Figures of different colors
+BP#57,Identical figures,Figures not identical
+BP#58,Solid dark quadrangles are identical,Solid dark quadrangles are different
+BP#59,Figures are similar,Figures are not similar
+BP#60,Some similar figures,No similar figures
+BP#61,A line separates the crosses in half,A line does not separate the crosses in half
+BP#62,Ends of the curve are far apart,Ends of the curve are close together
+BP#63,Shading thicker on the right side,Shading thicker on the left side
+BP#64,A cross is located on the extension of the ellipse axis,A circle is located on the extension of the ellipse axis
+BP#65,A set of triangles elongated horizontally,A set of triangles elongated vertically
+BP#66,Unconnected circles on a horizontal line,Unconnected circles on a vertical line
+BP#67,The right branch begins at a higher point than the left branch,The right branch begins at a lower point than the left branch
+BP#68,The end of the right branch is higher than that of the left branch,The end of the right branch is lower than that of the left branch
+BP#69,Large black dot on the main branch,Large black dot on a side branch
+BP#70,There are no side branches of the second order,There are side branches of the second order
+BP#71,There are inside figures of the second order,There are no inside figures of the second order
+BP#72,Ends of the curve are parallel,Ends of the curve are perpendicular
+BP#73,The long axes of the ellipse and rectangle are perpendicular,The long axes of the ellipse and rectangle are parallel
+BP#74,A tail grows from the obtuse end,A tail grows from the acute end
+BP#75,Triangle located at the concave side of an arc,Triangle located at the convex side of an arc
+BP#76,Long sides concave,Long sides convex
+BP#77,Angle divided in half,Angle not divided in half
+BP#78,Extensions of segments cross at one point,Extensions of segments do not cross at one point
+BP#79,A dark circle is closer to the outline circle than to the triangle,A dark circle is closer to the triangle than to the outline circle
+BP#80,Points located at the same distances from a cross,Points located at different distances from a cross
+BP#81,"Dark figures can be divided from outline figures by a straight line
+alternatively:
+Convex hulls of filled and outlined figures overlap","Dark figures are impossible to separate
+alternatively:
+Convex hulls of filled and outlined figures do not overlap"
+BP#82,The convex hull of the crosses forms an equilateral triangle,The convex hull of the crosses does not form an equilateral triangle
+BP#83,A circle is inside of a figure made by crosses,A circle is outside of a figure made by crosses
+BP#84,A quadrangle is outside of a figure made by circles,A quadrangle is inside of a figure made by circles
+BP#85,Three parts,Five parts
+BP#86,Three parts,Five parts
+BP#87,Four parts,Five parts
+BP#88,Three parts,Five parts
+BP#89,Three parts,Five parts
+BP#90,Three parts,Four parts
+BP#91,Three identical elements,Four identical elements
+BP#92,The chain does not branch,The chain branches
+BP#93,Branches at outlined circle,Branches at solid dark circle
+BP#94,Solid dark circle not at end,Solid dark circle at end
+BP#95,Vertical hatched lines,Horizontal hatched lines
+BP#96,Triangles,Quadrangles
+BP#97,Triangles,Circles
+BP#98,Triangles,Quadrangles
+BP#99,Outlines made by triangles and circles intersect,Outlines made by triangles and circles do not intersect
+BP#100,The letter А,The letter Б

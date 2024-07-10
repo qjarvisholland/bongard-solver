@@ -5,13 +5,17 @@
   [x]
   (println x "Hello, World!"))
 
-(def bp
+
+
+
+(def decompose
 {:image {:left {:1 [] :2 []
                 :3 [] :4 []
                 :5 [] :6 []}
          :right {:1 [] :2 []
-                :3 [] :4 []
-                :5 [] :6 []}}})
+                 :3 [] :4 []
+                 :5 [] :6 []}}})
+
 
 (comment
   
